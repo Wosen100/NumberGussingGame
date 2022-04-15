@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NumberGussingGame/static/css/main.4fa1402b.css",
+    "main.js": "/NumberGussingGame/static/js/main.29826e98.js",
+    "static/js/787.ddfd8e51.chunk.js": "/NumberGussingGame/static/js/787.ddfd8e51.chunk.js",
+    "index.html": "/NumberGussingGame/index.html",
+    "main.4fa1402b.css.map": "/NumberGussingGame/static/css/main.4fa1402b.css.map",
+    "main.29826e98.js.map": "/NumberGussingGame/static/js/main.29826e98.js.map",
+    "787.ddfd8e51.chunk.js.map": "/NumberGussingGame/static/js/787.ddfd8e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa1402b.css",
+    "static/js/main.29826e98.js"
+  ]
+}
